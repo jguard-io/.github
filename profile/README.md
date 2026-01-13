@@ -28,7 +28,7 @@
 
 ---
 
-jGuard enables JVM applications to execute untrusted code—plugins, extensions, and embedded automation—with explicit, least-privilege access controls.
+jGuard enables JVM applications to execute untrusted code (e.g., plugins, extensions, and embedded automation) with explicit, least-privilege access controls.
 
 Built for JDK 21+ in the post-SecurityManager era.
 
