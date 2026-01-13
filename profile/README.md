@@ -21,6 +21,9 @@
   <a href="https://jguard.io">
     <img src="https://img.shields.io/badge/docs-jguard.io-blue" alt="Documentation">
   </a>
+  <a href="https://github.com/jguard-io/jguard/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="License">
+  </a>
 </p>
 
 ---
