@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jguard-io/jguard/actions/workflows/build.yml">
-    <img src="https://github.com/jguard-io/jguard/actions/workflows/build.yml/badge.svg" alt="Build Status">
+  <a href="https://github.com/jguard-io/jguard/actions/workflows/ci.yml">
+    <img src="https://github.com/jguard-io/jguard/actions/workflows/ci.yml/badge.svg" alt="Build Status">
   </a>
   <a href="https://central.sonatype.com/search?q=io.jguard">
     <img src="https://img.shields.io/maven-central/v/io.jguard/jguard-core?label=Maven%20Central" alt="Maven Central">
